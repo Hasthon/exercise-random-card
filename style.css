@@ -1,0 +1,33 @@
+body{
+   background-color: darkgreen;
+}
+
+.card {
+    background-color: white;
+    border-radius: 20px 20px;
+    box-shadow: 2px 2px 5px black;
+    margin-top:50px;
+    margin-left:80px
+}
+.up-suit{
+    position: absolute;
+    margin-top: 5px;
+    margin-left:10px;
+    font-size: 50px;
+    
+}
+.number{
+     position: absolute;
+     margin-top: 70px;
+     margin-left: 60px;
+     font-size: 70px
+
+}
+
+.down-suit{
+    position: absolute;
+    margin-top: 175px;
+    margin-left:110px;
+    font-size: 50px;
+}
+
